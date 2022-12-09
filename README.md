@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-I am young student with many technical skills. I am very motivated to become QA
+I am a beginner software tester looking for my first professional experience. Thanks to interpersonal skills and previous professional experience, working in a group and contact with the client are not a problem for me. In order to improve my qualifications and skills, I completed a course in software testing: Szkolenie indywidualne tester manualny - Waldemar Szafraniec, and I am participating in tests on crowdtesting platforms.
 ## TOOLS
 * Jira
 * TestLink
@@ -11,8 +11,9 @@ I am young student with many technical skills. I am very motivated to become QA
 * Reporting bugs
 * SQL
 * SCRUM
+* Windows & macOS
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 05.04.2022
+Szkolenie Indywidualne tester manualny 07.11.2022
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 ## RECOMENDED BLOGS
