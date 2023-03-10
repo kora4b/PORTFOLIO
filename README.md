@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-I am a beginner software tester looking for my first professional experience. Thanks to interpersonal skills and previous professional experience, working in a group and contact with the client are not a problem for me. In order to improve my qualifications and skills, I completed a course in software testing: Szkolenie indywidualne tester manualny - Waldemar Szafraniec, and I am participating in tests on crowdtesting platforms.
+I am a beginner software tester looking for my first professional experience. Thanks to interpersonal skills and previous professional experience, working in a group and contact with the client are not a problem for me. In order to improve my qualifications and skills, I completed a course in software testing: Szkolenie indywidualne tester manualny - Waldemar Szafraniec.
 ## TOOLS
 * Jira
 * TestLink
@@ -10,7 +10,6 @@ I am a beginner software tester looking for my first professional experience. Th
 * Creating test cases
 * Reporting bugs
 * SQL
-* SCRUM
 * Windows & macOS
 ## CERTIFICATES
 Szkolenie Indywidualne tester manualny 07.11.2022
